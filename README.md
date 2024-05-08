@@ -56,6 +56,6 @@ For questions or support, please contact [support@poppel.com](mailto:support@pop
 ![Sequence Diagram  2](https://github.com/YohannesLibelo/POPPEL-ORDERING-SYSTEM/assets/142489620/d5bc670b-6f47-46a3-9145-65bd0abf17b8)
 
 ## Design Class Diagram
-[Design Class Diagram.pdf](https://github.com/YohannesLibelo/POPPEL-ORDERING-SYSTEM/files/15246166/Design.Class.Diagram.pdf)
+[Design Class Diagram](https://github.com/YohannesLibelo/POPPEL-ORDERING-SYSTEM/files/15246189/Design.Class.Diagram.pdf)
 
 
