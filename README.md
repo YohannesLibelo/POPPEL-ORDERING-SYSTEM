@@ -49,8 +49,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact
 For questions or support, please contact [support@poppel.com](mailto:support@poppel.com).
 
-
+# UML Diagrams
+## Sequence Diagrams
 
 ![Sequence Diagram 1](https://github.com/YohannesLibelo/POPPEL-ORDERING-SYSTEM/assets/142489620/77ae445c-4545-41b1-bdcc-26ee15216250)
 ![Sequence Diagram  2](https://github.com/YohannesLibelo/POPPEL-ORDERING-SYSTEM/assets/142489620/d5bc670b-6f47-46a3-9145-65bd0abf17b8)
+
+## Design Class Diagram
+[Design Class Diagram.pdf](https://github.com/YohannesLibelo/POPPEL-ORDERING-SYSTEM/files/15246166/Design.Class.Diagram.pdf)
+
 
