@@ -1,5 +1,3 @@
-[Design Class Diagram.pdf](https://github.com/YohannesLibelo/POPPEL-ORDERING-SYSTEM/files/15246251/Design.Class.Diagram.pdf)
-[Design Class Diagram.pdf](https://github.com/YohannesLibelo/POPPEL-ORDERING-SYSTEM/files/15246221/Design.Class.Diagram.pdf)
 # Poppel Order Management System
 
 ## Introduction
